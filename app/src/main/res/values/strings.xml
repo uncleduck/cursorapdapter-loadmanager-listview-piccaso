@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CursorLoader-ListView</string>
+    <string name="action_settings">设置</string>
+    <string name="tvText">Sample MSG Text</string>
+</resources>
